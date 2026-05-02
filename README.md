@@ -185,3 +185,15 @@ npm test
 ## Prompts & Planning
 
 See [`PROMPTS.md`](./PROMPTS.md) for the specification prompts and plan used to design this system.
+
+##Output
+**<img width="956" height="476" alt="1,1" src="https://github.com/user-attachments/assets/4fff985a-6bbf-47bf-8229-4db191ae5d91" />
+**<img width="954" height="476" alt="1 2" src="https://github.com/user-attachments/assets/45e4ee54-9808-43fe-bbd4-d775d00f2516" />
+**<img width="950" height="475" alt="1" src="https://github.com/user-attachments/assets/46965da2-e8a6-4f6c-9756-f7f335852d3f" />
+**<img width="959" height="419" alt="2" src="https://github.com/user-attachments/assets/5e45ce1c-b688-4e9b-9d0c-8dc5c6da10da" />
+**<img width="958" height="476" alt="3" src="https://github.com/user-attachments/assets/c7947bdb-c07d-444e-b011-179391ea04f6" />
+
+
+
+
+
